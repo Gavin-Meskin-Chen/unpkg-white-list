@@ -2814,6 +2814,18 @@
     "caniuse-lite": {
       "version": "*"
     },
+    "cansin-blogdata": {
+      "version": "*"
+    },
+    "cansin-music-jaychou": {
+      "version": "*"
+    },
+    "cansin-music-jackyxue1": {
+      "version": "*"
+    },
+    "cansin-music-jackyxue2": {
+      "version": "*"
+    },
     "canvas": {
       "version": "*"
     },
